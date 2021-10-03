@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+HOW CAN I SET UP A BUSINESS WITHOUT INVESTING ANY MONEY?
+I asked this question to a successful serial entrepreneur .
 
-You can use the [editor on GitHub](https://github.com/Pavanmycopee/depexpress/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+He gave me 2 Simple ways-
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Customers:
 
-### Markdown
+Meet with 100 customers, ask them about their challenges.
+Make a list of all the common challenges.
+Pick one you can solve for them. Go back to the customers, check if they will pay for it. Start with providing them a service.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2. Marketing:
 
-```markdown
-Syntax highlighted code block
+If finding 100 customers is tough to use social media & build your brand.
+Try not to spend any money on it. Pick any one platform & focus on it.
+If things don’t work move to another platform.
+It should take you 100 days to crack your first customer.
 
-# Header 1
-## Header 2
-### Header 3
+Get your first cheque. You have a business now.
 
-- Bulleted
-- List
+Go meet the next 100 customers.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pavanmycopee/depexpress/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Yes it worked 🙂
